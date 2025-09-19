@@ -23,7 +23,7 @@
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
@@ -72,7 +72,7 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
+<p align="left">
 
   <img src="https://github-readme-stats.vercel.app/api?username=malakkhaled1&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
 
