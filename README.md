@@ -5,7 +5,7 @@
 
 
 
-<h3 align="left">🌐 Connect with me</h3>
+## 🌐 Connect with me
 
 <p align="left">
   <a href="mailto:malakelhady76@gmail.com" target="_blank">
@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+## 🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
@@ -70,7 +70,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <p align="left">
 
